@@ -35,4 +35,4 @@ FitMate is a virtual dietitian designed to provide personalized health advice, i
 1. Clone the repository:
    ```bash
    git clone https://github.com/SoftwareDeveloperYadavJi/FitMate.git
-   cd fitmate
+   cd Fitmate
